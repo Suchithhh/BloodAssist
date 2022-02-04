@@ -1,4 +1,7 @@
 **BloodAssist using Azure**
+
+
+
 Project Title: **BloodAssist with Azure Health Bot**          
     
 
@@ -10,6 +13,12 @@ Primary Azure Technology:"Azure Health bot,Azure Health Service,Azure Deployment
 
 
 **WebChat:**
+
+
 To use bot in WebChat click on the link 
+
+
 https://healthcare-bot-ggfduhyjmdppw.azurewebsites.net/
+
+
 To Activate Bot click start and then Hi
